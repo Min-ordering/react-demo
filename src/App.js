@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          Blockchain expert
+          Blockchain deveooper
         </h1>
       </header>
     </div>

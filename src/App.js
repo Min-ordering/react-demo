@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Let's learn React
+          React master
         </a>
       </header>
     </div>

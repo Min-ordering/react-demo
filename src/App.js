@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          Full Stack
+          Frontend Expert
         </h1>
       </header>
     </div>

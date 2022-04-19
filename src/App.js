@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          React native expert
+          Blockchain devloper
         </h1>
       </header>
     </div>

@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          Gsap expert
+          Defi expert
         </h1>
       </header>
     </div>

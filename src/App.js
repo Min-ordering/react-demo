@@ -7,7 +7,7 @@ function App() {
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <h1>
-          Native speaker
+          React expert
         </h1>
       </header>
     </div>

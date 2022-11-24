@@ -6,7 +6,7 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
-        <p>Main</p>
+        <p>Main-2</p>
         <h1>
           Angular
         </h1>

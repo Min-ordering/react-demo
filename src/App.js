@@ -10,6 +10,9 @@ function App() {
           Angular
         </h1>
       </header>
+      <div>
+        content
+      </div>
     </div>
   );
 }

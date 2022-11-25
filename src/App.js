@@ -11,6 +11,7 @@ function App() {
           Angular
         </h1>
         <div>Main 1</div>
+        <div>Main New1</div>
       </header>
     </div>
   );

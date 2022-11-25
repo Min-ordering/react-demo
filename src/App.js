@@ -15,6 +15,7 @@ function App() {
         <div>Main New1</div>
         <div>Main New2</div>
         <div>Main New3</div>
+        <div>Main New4</div>
       </header>
     </div>
   );

@@ -12,6 +12,7 @@ function App() {
         </h1>
         <div>Main 1</div>
         <div>Main New1</div>
+        <div>Main New2</div>
       </header>
     </div>
   );

@@ -6,14 +6,11 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
-        <p>Main-2</p>
         <h1>
           Angular
         </h1>
+        <div>Main 1</div>
       </header>
-      <div>
-        content-1
-      </div>
     </div>
   );
 }

@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className='App-logo' alt='logo' />
         <div>Develop New1</div>
         <div>Develop New2</div>
-        <div>Develop MAIN</div>
+        <div>Develop main3</div>
         <h1>
           Angular
         </h1>

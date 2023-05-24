@@ -6,18 +6,10 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
-        <div>Develop New1</div>
-        <div>Develop New2</div>
-        <div>Develop main3</div>
         <h1>
-          Angular
+          React
         </h1>
-        <div>Main 1</div>
-        <div>Main New1</div>
-        <div>Main New2</div>
-        <div>Main New3</div>
-        <div>Main New4</div>
-        <div>test</div>
+        <p>React has been developed by Facebook</p>
       </header>
     </div>
   );

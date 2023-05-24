@@ -10,7 +10,7 @@ function App() {
         <div>Develop New2</div>
         <div>Develop main3</div>
         <h1>
-          Angular
+          React
         </h1>
         <div>Main 1</div>
         <div>Main New1</div>
